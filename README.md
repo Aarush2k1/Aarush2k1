@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aarush Kansal
-- 👀 I’m interested in Full Stack We Development    
+- 👀 I’m interested in Full Stack Web Dev and Flutter    
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on React and Node projects
 - 📫 How to reach me aarukansal2k1@gmail.com
