@@ -1,11 +1,11 @@
-<center><h1>👋 Hi, I’m Aarush Kansal</h1></center>
+<h1 style="text-align:center;"> 👋 Hi, I’m Aarush Kansal</h1>
 
 - 👀 I’m interested in App Dev and Research in ML.
 - 💞️ Looking to collaborate on Flutter projects and would love to help in other tech.
 - 📫 You can reach me at aarukansal2k1@gmail.com.
 
 <!--
- ##Programming Languages
+ ## Programming Languages
  
 -->
 
