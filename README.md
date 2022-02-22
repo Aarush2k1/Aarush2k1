@@ -1,4 +1,4 @@
-<div align="center"> 👋 Hi, I’m Aarush Kansal</div>
+<div align="center"> # 👋 Hi, I’m Aarush Kansal</div>
 
 - 👀 I’m interested in App Dev and Research in ML.
 - 💞️ Looking to collaborate on Flutter projects and would love to help in other tech.
