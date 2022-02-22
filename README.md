@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> 👋 Hi, I’m Aarush Kansal</h1>
+<h1 tyle="text-align: center;"> 👋 Hi, I’m Aarush Kansal</h1>
 
 - 👀 I’m interested in App Dev and Research in ML.
 - 💞️ Looking to collaborate on Flutter projects and would love to help in other tech.
