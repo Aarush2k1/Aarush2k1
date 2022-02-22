@@ -3,7 +3,7 @@
 
 Flutter is my favorite framework for building mobile apps. I am also interested in data science.
 
-## Programming Languages
+## Some of my Programming skills are
 - C++
 - Java
 - Python
