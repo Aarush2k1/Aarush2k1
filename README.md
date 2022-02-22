@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hi, I’m Aarush Kansal</h1>
 
-- 👀 I’m interested in App Dev and Research in ML.
-- 💞️ Looking to collaborate on Flutter projects and would love to help in other tech.
-- 📫 You can reach me at aarukansal2k1@gmail.com.
+<br>
+## Programming Languages
+- C++
+## Frameworks
+-
 
-<!--
- ## Programming Languages
- 
--->
+- 💞️ Looking to collaborate on Flutter projects and would love to help in other tech.
+- 📫 Contact me at aarukansal2k1@gmail.com.
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarush2k1&show_icons=true&theme=radical)
 ![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush2k1&layout=compact)
