@@ -5,7 +5,7 @@ Flutter is my favorite framework for building mobile apps. I am also interested 
 
 ## My Programming skills are
 
-[!(https://skills.thijs.gg/icons?i=cpp,java,python,firebase,flutter,html,css,react,javascript,docker)]
+![(https://skills.thijs.gg/icons?i=cpp,java,python,firebase,flutter,html,css,react,javascript,docker)]
 
 #### Connect with me
 - 📫 Contact me at aarukansal2k1@gmail.com.
