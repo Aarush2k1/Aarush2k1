@@ -14,9 +14,11 @@ Flutter is my favorite framework for building mobile apps. I am also interested 
 </div>
 
 ## Frameworks
+<div>
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/reactjs.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
+</div>
 
 #### Connect with me
 - 📫 Contact me at aarukansal2k1@gmail.com.
