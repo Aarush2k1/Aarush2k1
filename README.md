@@ -4,13 +4,14 @@
 Flutter is my favorite framework for building mobile apps. I am also interested in data science.
 
 ## My Programming skills
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cpp.svg" />
+<div>  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cpluspplus.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
+</div>
 
 ## Frameworks
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
