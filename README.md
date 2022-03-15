@@ -7,13 +7,11 @@ Flutter and ML enthusiast
 
 ![](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,c,cpp,java,python,flutter,firebase,docker)
 
- =============
-
+<>
 #### Connect with me
 
 Linkdin
-
- =============
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarush2k1&show_icons=true&theme=radical)
 
