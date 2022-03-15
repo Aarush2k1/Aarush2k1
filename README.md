@@ -11,7 +11,7 @@ Flutter and ML enthusiast
 
 ### 🛠️ Languages and Tools:
 
-![](https://skills.thijs.gg/icons?i=c,cpp,java,python,html,css,js,react,nodejs,flutter,firebase,docker)
+<!-- ![](https://skills.thijs.gg/icons?i=c,cpp,java,python,html,css,js,react,nodejs,flutter,firebase,docker) -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -25,6 +25,7 @@ Flutter and ML enthusiast
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" **alt="matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="matlab" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🔥 My Stats:
