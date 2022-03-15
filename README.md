@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I’m Aarush Kansal</h1>
 
-Flutter is my favorite framework for building mobile apps. I am also interested in data science.
+Flutter and ML enthusiast
 
 ## Languages and Tools:
 
@@ -13,7 +13,7 @@ Flutter is my favorite framework for building mobile apps. I am also interested 
 
 Linkdin
 
----
+===
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarush2k1&show_icons=true&theme=radical)
 
