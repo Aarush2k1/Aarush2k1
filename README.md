@@ -5,9 +5,8 @@ Flutter and ML enthusiast
 
 ## Languages and Tools:
 
-![](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,c,cpp,java,python,flutter,firebase,docker)
+![](https://skills.thijs.gg/icons?i=c,cpp,java,python,html,css,js,react,nodejs,flutter,firebase,docker)
 
-<>
 #### Connect with me
 
 Linkdin
