@@ -3,14 +3,12 @@
 
 Flutter and ML enthusiast
 
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+
 ## Languages and Tools:
 
 ![](https://skills.thijs.gg/icons?i=c,cpp,java,python,html,css,js,react,nodejs,flutter,firebase,docker)
 
-#### Connect with me
-
-Linkdin
-<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarush2k1&show_icons=true&theme=radical)
 
