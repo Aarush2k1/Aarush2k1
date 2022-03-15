@@ -9,12 +9,13 @@ Flutter and ML enthusiast
 ---
 ### 👨‍💻 About Me:
 
+---
 ### 🛠️ Languages and Tools:
 
 <!-- ![](https://skills.thijs.gg/icons?i=c,cpp,java,python,html,css,js,react,nodejs,flutter,firebase,docker) -->
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original-wordmark.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cpp/cpp-original-wordmark.svg" title="Cpp" alt="cpp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
