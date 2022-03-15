@@ -5,9 +5,9 @@ Flutter is my favorite framework for building mobile apps. I am also interested 
 
 ## Languages and Tools:
 
-![](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,c,cpp,java,python,flutter,firebase,docker,matlab)
+![](https://skills.thijs.gg/icons?i=html,css,js,react,nodejs,c,cpp,java,python,flutter,firebase,docker)
 
-<div>  
+<!-- <div>  
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
@@ -18,7 +18,7 @@ Flutter is my favorite framework for building mobile apps. I am also interested 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/matlab.svg" />
-</div>
+</div> -->
 
 #### Connect with me
 - 📫 Contact me at aarukansal2k1@gmail.com.
