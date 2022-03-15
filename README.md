@@ -5,9 +5,11 @@ Flutter and ML enthusiast
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
-
+<!-- 
 ---
 ### 👨‍💻 About Me:
+- Software Developer 
+- Flutter apps -->
 
 ---
 ### 🛠️ Languages and Tools:
