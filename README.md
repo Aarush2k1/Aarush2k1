@@ -13,19 +13,21 @@ Flutter and ML enthusiast
 
 ### 🛠️ My Skills:
 
-#### Programming Languages
-  
-  <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  </a>
+#### Programming Languages:
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></code</a>
+  <a href="http://www.cplusplus.org//" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/></code></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></code></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></code></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><code>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/></code></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><code>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" /></code></a>
+  <a href="https://www.javascript.com/" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/></code></a>
+</p>
+
+
+<h3>Frontened</h3>
 <div>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cpp" alt="Cpp" width="40" height="40"/></code>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="threejs" **alt="threejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
