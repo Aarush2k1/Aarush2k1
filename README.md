@@ -3,21 +3,23 @@
 
 Flutter and ML enthusiast
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" href="https://www.linkedin.com/in/aarush-k-199718197/" alt="LinkedIn Badge"/>
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
-<!-- 
----
+
 ### 👨‍💻 About Me:
-- Software Developer 
-- Flutter apps -->
+- App Developer 
+- Flutter apps
 
----
-### 🛠️ Languages and Tools:
 
-<!-- ![](https://skills.thijs.gg/icons?i=c,cpp,java,python,html,css,js,react,nodejs,flutter,firebase,docker) -->
-<div>
+### 🛠️ My Skilla:
+
+#### 👉 Programming Languages
+  <p align="left>
+  <a href="https://www.cprogramming.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
+  </a>
+  </p>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Cpp" alt="Cpp" width="40" height="40"/></code>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -45,7 +47,8 @@ Flutter and ML enthusiast
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
 </div>
-<>
+
+<br/>
 ---
 ### 🔥 My Stats:
 
@@ -54,7 +57,7 @@ Flutter and ML enthusiast
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarush2k1&show_icons=true&theme=radical)
 
 ![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarush2k1&layout=compact)
-
+</>
 <!---
 Aarush2k1/Aarush2k1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
