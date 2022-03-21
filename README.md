@@ -1,9 +1,11 @@
 
 <h1 align="center">👋 Hi, I’m Aarush Kansal</h1>
+<br />
 
 Flutter and ML enthusiast
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" href="https://www.linkedin.com/in/aarush-k-199718197/" alt="LinkedIn Badge"/>
+<br />
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
 
 <!-- ### 👨‍💻 About Me:
@@ -12,7 +14,7 @@ Flutter and ML enthusiast
 
 ### 🛠️ My Skills
 
-<h3>Programming Languages</h3>
+<h4>Programming Languages</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></code></a>
   <a href="http://www.cplusplus.org//" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/></code></a>
@@ -20,7 +22,7 @@ Flutter and ML enthusiast
    <a href="https://www.python.org" target="_blank"><code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></code></a>
 </p>
 
-<h3>Development</h3>
+<h4>Development</h4>
 <p>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>
@@ -53,7 +55,7 @@ Flutter and ML enthusiast
   </a>
 </p>
 
-<h3>Backend</h3>
+<h4>Backend</h4>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
@@ -62,7 +64,7 @@ Flutter and ML enthusiast
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
 </p>
 
-<h3>Software & tools</h3>
+<h4>Software & tools</h4>
 <p align="left">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" **alt="pandas" width="40" height="40"/>&nbsp;
@@ -74,6 +76,8 @@ Flutter and ML enthusiast
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>&nbsp;
 </p>
+
+<br />
 
 ### 🔥 My Stats
 
