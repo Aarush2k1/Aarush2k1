@@ -6,8 +6,9 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
 
 ### 👨‍💻 About Me:
-- Love to Develop applications
-- Interested in Data Science
+- I am undergrad in Thapar Institute of Engineering and Technology
+- I love to Develop applications.
+- Currently working on Data Science and improving my Data Structures skills.
 
 ### 🛠️ My Skills
 
