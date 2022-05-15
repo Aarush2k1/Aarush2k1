@@ -1,16 +1,13 @@
 
 <h1 align="center">👋 Hi, I’m Aarush Kansal</h1>
 <br />
-
-Flutter and ML enthusiast
-
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" href="https://www.linkedin.com/in/aarush-k-199718197/" alt="LinkedIn Badge"/>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
 
-<!-- ### 👨‍💻 About Me:
-- App Developer 
-- Flutter apps -->
+### 👨‍💻 About Me:
+- Love to Develop applications
+- Interested in Data Science
 
 ### 🛠️ My Skills
 
