@@ -6,7 +6,7 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
 
 ### 👨‍💻 About Me:
-- I am currently doing major in CS from Thapar Institute of Engineering and Technology
+<!-- - I am currently doing major in CS from Thapar Institute of Engineering and Technology -->
 - I love to Develop applications.
 - Currently working on Data Science and improving my Data Structures skills.
 
