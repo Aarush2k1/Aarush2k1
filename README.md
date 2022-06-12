@@ -1,14 +1,18 @@
 
-<h1 align="center">👋 Hi, I’m Aarush Kansal</h1>
-<br />
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" href="https://www.linkedin.com/in/aarush-k-199718197/" alt="LinkedIn Badge"/>
+# 👋 Hi, I’m Aarush Kansal
 
+![Linkedin](https://img.shields.io/badge/-AarushKansal-blue?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/aarush-k-199718197)
+
+I am CS undergrad (pre-final year) in Thapar Institute of Engineering and Technology. 
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
 
 ### 👨‍💻 About Me:
-<!-- - I am currently doing major in CS from Thapar Institute of Engineering and Technology -->
-- I love to Develop applications.
-- Currently working on Data Structures and algorithms.
+- 🌱 I’m currently learning: Data Structures and Alogrithmns
+- 💬 Ask me about anything, if I dont know, I'll search for it with you!
+- 📫 How to reach me: aarukansal2k1@gmail.com
+
+
+<!-- - 🤔 I’m looking for help with ... Algorithms, PLEASE -->
 
 ### 🛠️ My Skills
 
