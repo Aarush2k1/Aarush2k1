@@ -41,9 +41,6 @@ I am CS undergrad (pre-final year) in Thapar Institute of Engineering and Techno
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="threejs" **alt="threejs" width="45" height="45"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
   </a>
