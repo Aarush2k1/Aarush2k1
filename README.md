@@ -3,7 +3,7 @@
 
 ![Linkedin](https://img.shields.io/badge/-AarushKansal-blue?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/aarush-k-199718197)
 
-I am CS undergrad (pre-final year) in Thapar Institute of Engineering and Technology. 
+I am CS undergrad from Thapar Institute of Engineering and Technology. 
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
 
 ### 👨‍💻 About Me:
@@ -18,13 +18,14 @@ I am CS undergrad (pre-final year) in Thapar Institute of Engineering and Techno
 
 <h4>Programming Languages</h4>
 <p align="left">
+   <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="50" height="50"/>&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   </a>
   <a href="http://www.cplusplus.org//" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  </a>
-   <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   </a>
 </p>
 
@@ -51,7 +52,6 @@ I am CS undergrad (pre-final year) in Thapar Institute of Engineering and Techno
 
 <!-- <h4>Backend</h4> -->
 <p>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp; -->
   <a href="https://www.php.net/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>
   </a>
