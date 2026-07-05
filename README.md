@@ -7,7 +7,7 @@ I am CS undergrad from Thapar Institute of Engineering and Technology.
 <!-- <img src="https://komarev.com/ghpvc/?username=aarush2k1&style=flat-square&color=blue" alt=""/> -->
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning: Data Structures and Alogrithmns
+- 🌱 I’m currently building apps with llm's
 - 💬 Ask me about anything, if I dont know, I'll search for it with you!
 - 📫 How to reach me: aarukansal2k1@gmail.com
 
